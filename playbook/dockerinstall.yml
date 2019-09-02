@@ -1,5 +1,5 @@
 ---
-- hosts: 52.214.23.130
+- hosts: Docker
   user: centos
   become: true
   tasks:
